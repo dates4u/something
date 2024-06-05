@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Fira+Code:wght@300..700&family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+ background: #222222;
+}
+
+p {
+    background: linear-gradient(#3D67FF, #9773FF);
+    font-family: 'Inter Tight', sans-serif;
+    color: #ffffff;
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
