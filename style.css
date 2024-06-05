@@ -5,7 +5,7 @@ body {
 }
 
 .p {
-    background: linear-gradient(#3D67FF, #9773FF);
+    background: linear-gradient(260deg, rgb(61 103 255) 0%, rgb(151 115 255) 50%, rgb(239 206 255) 80%),rgb(255 255 255);
     font-family: 'Inter Tight', sans-serif;
     color: #ffffff;
     text-align: -webkit-center;
