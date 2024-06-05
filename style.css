@@ -23,7 +23,15 @@ body {
 }
 
 .img {
-  margin-left: 32.5%;
+  margin-left: 30.75%;
+}
+
+.spacing{
+  transition: letter-spacing 2s;
+}
+
+.spacing:hover{
+  letter-spacing: 10px;
 }
 
 .fade-in { 
