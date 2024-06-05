@@ -12,3 +12,9 @@ p {
             background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.s-text {
+ font-family: 'Inter Tight', sans serif;
+ text-align: -webkit-center;
+ color: #ffffff
+}
