@@ -19,3 +19,11 @@ body {
  text-align: -webkit-center;
  color: #ffffff
 }
+
+.headline{
+  transition: color 1s;
+}
+
+.headline:hover{
+  color: #ffffff;
+}
