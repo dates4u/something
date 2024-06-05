@@ -8,6 +8,7 @@ body {
     background: linear-gradient(#3D67FF, #9773FF);
     font-family: 'Inter Tight', sans-serif;
     color: #ffffff;
+    text-align: -webkit-center;
     -webkit-background-clip: text;
             background-clip: text;
     -webkit-text-fill-color: transparent;
